@@ -2,7 +2,7 @@
 title: "¿Qué es una inteligencia artificial?"
 description: "Podremos averigüar que es una inteligencia artifical."
 publishDate: "11 Oct 2023"
-tags: ["webmentions", "astro", "social"]
+tags: ["masInfo"]
 updatedDate: 8 April 2024
 ---
 
