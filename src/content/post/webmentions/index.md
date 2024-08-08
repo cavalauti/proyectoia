@@ -1,6 +1,6 @@
 ---
 title: "¿Qué es una inteligencia artificial?"
-description: "Podremos averigüar que es una inteligencia artifical."
+description: "En el siguiente texto podremo averiguar que es una inteligencia artifical basandonos en información recaudada de diferentes fuentes de Internet."
 publishDate: "11 Oct 2023"
 tags: ["masInfo"]
 updatedDate: 8 April 2024
